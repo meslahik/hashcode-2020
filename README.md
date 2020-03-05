@@ -1,7 +1,6 @@
 # hashcode-2020
-HashCode 2020
 
-Team 0xUSI:
+Our team: 0xUSI
 - Emad Aghajani
 - Mojtaba Eslahi Kelorazi
 
